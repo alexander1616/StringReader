@@ -1,0 +1,143 @@
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
+Any libraries used in such devices will also need to be safety critical. Everything from motor control, and computer vision to RTOS and CAN Bus communications.
+
+Beyond the firmware: the compiler, linker, test suite also need to be safety certified.
+
+Safety critical code is required when the device is commonly exposed to conditions where failure would cause harm with low probability of another system or person preventing harm. Note the probability of failure doesn't matter, unless its 0. Check out Safety Integrity Levels, or Automotive Safety Integrity Levels.
+
+Some project ideas that at scale would be safety critical:
+
+Drive (car) by wire - Implement HALO style driving in a robotic chassis
+
+Medical Robotic surgeon - Have a toy robot put an object in a hole, but if it knocks over a domino it fails.
+
+Inverted Pendulum though I can't think of a direct application.
